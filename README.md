@@ -77,3 +77,12 @@ An RLE (Run-Length Encoding) compression algorithm was implemented to compress t
 ## 📌 Final Notes
 
 This project demonstrates how real-world healthcare processes can be modeled using core principles of C programming. It balances data structure complexity with usability, aiming to reflect real hospital/HMO logic in a simplified, academic context.
+
+
+## License
+
+Copyright (c) 2024 Netanel Boris Cohen Niazov
+
+## Authors
+
+- Netanel Boris Cohen Niazov
